@@ -1,10 +1,5 @@
 Gitの練習をしてきます。
 基本的なワークフローを学びます。
-<<<<<<< HEAD
 ・git add
 ・git commit
-=======
-・sourcetree
-Study3
-Study4
->>>>>>> 67551af8835b0a0bdc24e272580a76dff6b6db4d
+・git rm
